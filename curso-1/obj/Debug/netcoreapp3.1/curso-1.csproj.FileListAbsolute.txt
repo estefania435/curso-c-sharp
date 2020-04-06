@@ -1,0 +1,13 @@
+C:\Users\MI-PC\Documents\c-sharp\curso\curso-1\curso-1\bin\Debug\netcoreapp3.1\curso-1.exe
+C:\Users\MI-PC\Documents\c-sharp\curso\curso-1\curso-1\bin\Debug\netcoreapp3.1\curso-1.deps.json
+C:\Users\MI-PC\Documents\c-sharp\curso\curso-1\curso-1\bin\Debug\netcoreapp3.1\curso-1.runtimeconfig.json
+C:\Users\MI-PC\Documents\c-sharp\curso\curso-1\curso-1\bin\Debug\netcoreapp3.1\curso-1.runtimeconfig.dev.json
+C:\Users\MI-PC\Documents\c-sharp\curso\curso-1\curso-1\bin\Debug\netcoreapp3.1\curso-1.dll
+C:\Users\MI-PC\Documents\c-sharp\curso\curso-1\curso-1\bin\Debug\netcoreapp3.1\curso-1.pdb
+C:\Users\MI-PC\Documents\c-sharp\curso\curso-1\curso-1\obj\Debug\netcoreapp3.1\curso-1.csprojAssemblyReference.cache
+C:\Users\MI-PC\Documents\c-sharp\curso\curso-1\curso-1\obj\Debug\netcoreapp3.1\curso-1.csproj.CoreCompileInputs.cache
+C:\Users\MI-PC\Documents\c-sharp\curso\curso-1\curso-1\obj\Debug\netcoreapp3.1\curso-1.AssemblyInfoInputs.cache
+C:\Users\MI-PC\Documents\c-sharp\curso\curso-1\curso-1\obj\Debug\netcoreapp3.1\curso-1.AssemblyInfo.cs
+C:\Users\MI-PC\Documents\c-sharp\curso\curso-1\curso-1\obj\Debug\netcoreapp3.1\curso-1.dll
+C:\Users\MI-PC\Documents\c-sharp\curso\curso-1\curso-1\obj\Debug\netcoreapp3.1\curso-1.pdb
+C:\Users\MI-PC\Documents\c-sharp\curso\curso-1\curso-1\obj\Debug\netcoreapp3.1\curso-1.genruntimeconfig.cache
