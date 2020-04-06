@@ -6,7 +6,7 @@ namespace curso_1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hola Mundo! :D");
             Console.ReadKey();
         }
     }
