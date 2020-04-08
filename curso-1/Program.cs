@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
 namespace curso_1
 {
@@ -6,40 +8,17 @@ namespace curso_1
     {
         static void Main()
         {
-            var s1 = new Estudiantes()
-            {
-                Nombre = "stefa",
-                edad = 21,
-                calificacion = 5.0
-            };
-            var s2 = new Estudiantes()
-            {
-                Nombre = "stick",
-                edad = 28,
-                calificacion = 3.0
-            };
-            var s3 = new Estudiantes()
-            {
-                Nombre = "stevenson",
-                edad = 29,
-                calificacion = 5.0
-            };
-
-            var School = new school();
-            School.addstudent(s1);
-            School.addstudent(s2);
-            School.addstudent(s3);
-            bool valor = false;
-
-            do
-            {
-                Console.WriteLine("ingrese el nombre");
-                string name = Console.ReadLine();
-                valor = School.buscarpornombre(name);
-
-            } while (valor);
-
-            
+            var list = new listanodo();
+            list.ListaVacia();
+            list.addNodo(1);
+            list.addNodo(3);
+            list.addNodo(2);
+            list.addNodo(4);
+            list.listar();
+            list.sustitur(3,6);
+            Console.WriteLine(list.Size());
+            list.listar();
+                
             Console.ReadKey();
         }
     }
