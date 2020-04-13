@@ -21,7 +21,7 @@ namespace curso_1
        
         protected override void getproducto()
         {
-            Console.WriteLine("hola");
+            Console.WriteLine("hola mundo");
         }
     }
 }
