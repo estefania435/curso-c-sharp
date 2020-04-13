@@ -4,22 +4,24 @@ using System.Text;
 
 namespace curso_1
 {
-    class Program
+    class Program : Menu
     {
+        //metodo constructor
+        public Program(string s): base(s)//hace referencia a almetodo constructor de la clase que estamos heredando(menu)
+        {
+
+        }
         static void Main()
         {
-            var list = new listanodo();
-            list.ListaVacia();
-            list.addNodo(1);
-            list.addNodo(3);
-            list.addNodo(2);
-            list.addNodo(4);
-            list.listar();
-            list.sustitur(3,6);
-            Console.WriteLine(list.Size());
-            list.listar();
-                
+
+            new Program("emprea sd").getproducto();  
             Console.ReadKey();
+        }
+        //override indica a la clase program que el metodo ha sido sobreescrito de la clase que esta heredando
+       
+        protected override void getproducto()
+        {
+            Console.WriteLine("hola");
         }
     }
 }
